@@ -89,13 +89,13 @@ You can find the inputs to the particle filter in the `data` directory.
 Initial number of particle filter was set as 100, and it passed simulation successfully.
 As far as tried several times down to 10, the simulation was successfully completed.
 
-# of particle = 100
+Result for # of particle = 100
 ![result100](image/Result100.JPG)
 
-# of particle = 10
+Result for # of particle = 10
 ![result10](image/Result10.JPG)
 
-# of particle = 5
+Result for # of particle = 5
 ![result5](image/Result5.JPG)
 
 
